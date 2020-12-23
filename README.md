@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying in **Gramin Technical And Management Campus**
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **C , C++**
 
