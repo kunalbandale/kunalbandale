@@ -20,6 +20,12 @@
 <a href="https://linkedin.com/in/kunalbandale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="kunalbandale" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalbandale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kunalbandale" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCsSOQ6qJbn7eXCvuK1E86HA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="kunalbandale" height="30" width="40" /></a>
+
+ <a href="https://mobile.twitter.com/BandaleKunal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/Twitter.svg" alt="kunalbandale" height="30" width="40" /></a>
+  
+
+  
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
