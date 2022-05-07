@@ -20,7 +20,7 @@
 <a href="https://codepen.io/kunalbandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunalbandale" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/kunalbandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/kunalbandale" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13920659" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13920659" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucssoq6qjbn7excvuk1e86ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucssoq6qjbn7excvuk1e86ha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCsSOQ6qJbn7eXCvuK1E86HA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCsSOQ6qJbn7eXCvuK1E86HA" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
