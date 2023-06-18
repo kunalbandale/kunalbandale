@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on computer beasts project<br>🌱 I’m currently learning Python 3<br>💬 Ask me about C , C++ & Java<br>⚡ Fun fact I think I am funny 
+🔭 I’m currently working on competitive programming <br>🌱 I’m currently learning Python 3<br>💬 Ask me about C , C++ & Java<br>⚡ Fun fact I think I am funny 
 
 
 ## 🌐 Socials:
