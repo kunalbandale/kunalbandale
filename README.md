@@ -18,6 +18,8 @@
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![Beautiful Landscape](https://github.com/kunalbandale/kunalbandale/blob/main/programmer.gif)
+
 
 </div>
 
