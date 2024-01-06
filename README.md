@@ -24,11 +24,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 😂 Meme of the Day
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-### ✍️ Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=kunalbandale&icon=2&color=6)](https://visitcount.itsvg.in)
 
