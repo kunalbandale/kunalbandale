@@ -1,7 +1,7 @@
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=react-dark)](https://github.com/kunalbandale/github-readme-activity-graph)
 
 # 💫 About Me
-🎓 Diploma Completed <br>🎓 3rd Year B.Tech Student <br>💼 founder of binarybros.in <br>
+🎓 Diploma Completed <br>🎓 3rd Year B.Tech Student <br>
 
 
 
