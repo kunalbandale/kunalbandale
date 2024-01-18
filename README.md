@@ -1,12 +1,32 @@
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=react-dark)](https://github.com/kunalbandale/github-readme-activity-graph)
 
-# 💫 About Me
-🎓 Diploma Completed <br>🎓 3rd Year B.Tech Student <br>
+### Latest Blog Posts
+ - [Learn CSS - I](https://kunalbandale.in/learn-css-i)
+   - HTML stands for Hypertext Markup Language and is used to structure web pages. CSS, which stands for Cascading Style Sheets, is utilized for styling and designing websites. It helps in making websites responsive and giving them a premium look. Simply put, CSS is used for styling web content.
+ - [Python Basics](https://kunalbandale.in/python-basics-from-variables-to-conditional-statements)
+   - Hello everyone! In this article, I'll provide a practical guide to getting started with Python. 🐍 Follow this guide to begin your journey with Python programming. Before we begin, make sure to install Python and a text editor like PyScripter. Feel free to use your favourite IDE as well! ✨ 
+ - [Introduction to APIs](https://kunalbandale.in/understanding-apis-simplified)
+   - Decoding the Language of Software Communication🏗️ 💡
+
+ - [Introduction to Cryptocurrency](https://kunalbandale.in/introduction-to-cryptocurrency)
+   - Cryptocurrency is a rapidly evolving financial phenomenon that has stirred considerable debate about its potential role in shaping the future of money.
+---
+
+<!--- ### Research Paper  -->
+
+
+  
 
 
 
 
-# 💻 Tech Stack
+###  About Me
+- 👋 Hello World! I am Kunal Bandale, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
+- #### Education
+  - B.tech in Information Technology , Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)   2022 - Present     
+  - Diploma in Computer Engineering , Gramin Technical and Management Campus - 2019 - 2022
+
+### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -25,13 +45,14 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kunalbandale&icon=2&color=6)](https://visitcount.itsvg.in)
-
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalbandale) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bandalekunal) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunalbandale) 
 
