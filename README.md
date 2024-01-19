@@ -21,10 +21,10 @@
 
 
 ###  About Me
-- 👋 Hello World! I am Kunal Bandale, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
+- 👋 Hello World! <b>I am Kunal Bandale </b>, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
 - #### Education
-  - B.tech in Information Technology , Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)   2022 - Present     
-  - Diploma in Computer Engineering , Gramin Technical and Management Campus - 2019 - 2022
+  - <b>B.tech in Information Technology</b> , Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)   2022 - Present     
+  - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
 
 ### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -51,7 +51,7 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) --
 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunalbandale) 
