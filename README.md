@@ -1,4 +1,4 @@
-[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=react-dark)](https://github.com/kunalbandale/github-readme-activity-graph)
+[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=github-compact	)](https://github.com/kunalbandale/github-readme-activity-graph)
 
 ### Latest Blog Posts
  - [Learn CSS - I](https://kunalbandale.in/learn-css-i)
