@@ -2,14 +2,10 @@
 
 ### Latest Blog Posts
  - [Learn CSS - I](https://kunalbandale.in/learn-css-i)
-   - HTML stands for Hypertext Markup Language and is used to structure web pages. CSS, which stands for Cascading Style Sheets, is utilized for styling and designing websites. It helps in making websites responsive and giving them a premium look. Simply put, CSS is used for styling web content.
  - [Python Basics](https://kunalbandale.in/python-basics-from-variables-to-conditional-statements)
-   - Hello everyone! In this article, I'll provide a practical guide to getting started with Python. 🐍 Follow this guide to begin your journey with Python programming. Before we begin, make sure to install Python and a text editor like PyScripter. Feel free to use your favourite IDE as well! ✨ 
  - [Introduction to APIs](https://kunalbandale.in/understanding-apis-simplified)
-   - Decoding the Language of Software Communication🏗️ 💡
-
  - [Introduction to Cryptocurrency](https://kunalbandale.in/introduction-to-cryptocurrency)
-   - Cryptocurrency is a rapidly evolving financial phenomenon that has stirred considerable debate about its potential role in shaping the future of money.
+ - [Beginner's Guide for Book Exploration](https://kunalbandale.in/beginners-guide-to-book-exploration)
 ---
 
 <!--- ### Research Paper  -->
@@ -26,7 +22,9 @@
   - <b>B.tech in Information Technology</b> , Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)   2022 - Present     
   - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
 
-### Tech Stack
+<!-- - #### Projects -->
+
+- #### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
