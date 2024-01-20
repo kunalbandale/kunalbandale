@@ -51,8 +51,12 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
 
-<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) --
+<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunalbandale) 
 
+### 📈 Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbandale&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalbandale&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalbandale&theme=github)
