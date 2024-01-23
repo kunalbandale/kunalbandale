@@ -8,6 +8,15 @@
  - [Beginner's Guide for Book Exploration](https://kunalbandale.in/beginners-guide-to-book-exploration)
 ---
 
+###  My Notes 
+| Topic  |   Links |
+|-----------|-------------|
+|📚 Python OOP   |https://github.com/kunalbandale/my-notes/blob/main/Python%20OOPs%20Concept.pdf |
+|📝 SQL   | https://github.com/kunalbandale/my-notes/blob/main/SQL%20notes.pdf |  
+|💻 HTML      | https://github.com/kunalbandale/my-notes/blob/main/HTML%20-%20NOTES.pdf |  
+|💡 Agile | https://github.com/kunalbandale/my-notes/blob/main/Agile.pdf | 
+|💡Blockchain - I      | https://github.com/kunalbandale/my-notes/blob/main/Blockchain%20-%20I.pdf | 
+|📚 Get all notes here|https://github.com/kunalbandale/my-notes|
 <!--- ### Research Paper  -->
 
 
