@@ -17,12 +17,18 @@
 |💡 Agile | https://github.com/kunalbandale/my-notes/blob/main/Agile.pdf | 
 |💡Blockchain - I      | https://github.com/kunalbandale/my-notes/blob/main/Blockchain%20-%20I.pdf | 
 |📚 Get all notes here|https://github.com/kunalbandale/my-notes|
+
+---
+### Repo for beginners
+| repo name | link | description |
+|-----------|------------|---------|
+|GitGithub-and-DSA-Playground|https://github.com/kunalbandale/GitGithub-and-DSA-Playground| A collaborative space for Git and Data Structures & Algorithms enthusiasts to practice coding, learn version control with Git, and contribute their DSA implementations. Let's code and learn together!|
+
+
 <!--- ### Research Paper  -->
 
 
   
-
-
 
 
 ###  About Me
