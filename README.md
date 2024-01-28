@@ -28,8 +28,7 @@
 
 <!--- ### Research Paper  -->
 
--->
-  
+
 
 <!--
 ###  About Me
@@ -39,7 +38,7 @@
   - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
 
 <!-- - #### Projects -->
--->
+
 <!--
 - #### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -70,10 +69,12 @@
 
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
-
+<!--
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunalbandale) 
 
 ### 📈 Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbandale&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalbandale&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalbandale&theme=github)
+
+-->
