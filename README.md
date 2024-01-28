@@ -1,3 +1,4 @@
+<!--
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=github-compact	)](https://github.com/kunalbandale/github-readme-activity-graph)
 
 ### Latest Blog Posts
@@ -27,10 +28,10 @@
 
 <!--- ### Research Paper  -->
 
-
+-->
   
 
-
+<!--
 ###  About Me
 - 👋 Hello World! <b>I am Kunal Bandale </b>, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
 - #### Education
@@ -38,7 +39,8 @@
   - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
 
 <!-- - #### Projects -->
-
+-->
+<!--
 - #### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -63,6 +65,8 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bandalekunal) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
+
+-->
 
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
