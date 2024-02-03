@@ -1,4 +1,4 @@
-<!--
+
 [![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=github-compact	)](https://github.com/kunalbandale/github-readme-activity-graph)
 
 ### Latest Blog Posts
@@ -25,12 +25,10 @@
 |-----------|------------|---------|
 |GitGithub-and-DSA-Playground|https://github.com/kunalbandale/GitGithub-and-DSA-Playground| A collaborative space for Git and Data Structures & Algorithms enthusiasts to practice coding, learn version control with Git, and contribute their DSA implementations. Let's code and learn together!|
 
+---
 
 <!--- ### Research Paper  -->
 
-
-
-<!--
 ###  About Me
 - 👋 Hello World! <b>I am Kunal Bandale </b>, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
 - #### Education
@@ -39,7 +37,7 @@
 
 <!-- - #### Projects -->
 
-<!--
+
 - #### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -58,18 +56,16 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalbandale) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bandalekunal) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
 
--->
 
 <!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
 
-<!--
+
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/kunalbandale) 
 
 ### 📈 Stats:
@@ -77,4 +73,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalbandale&theme=github)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalbandale&theme=github)
 
--->
