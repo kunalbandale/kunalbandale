@@ -27,6 +27,13 @@
 
 ---
 
+### Cheatsheet
+| Topic  |   Links |
+|-----------|-------------|
+|💡 C++ | [C++ Cheatsheet]() |
+|📝 Python | [Python Cheatsheet](https://github.com/kunalbandale/python-cheat-sheet/blob/main/README.md) |  
+|💻 Java | [Java Cheatsheet]() |  
+
 <!--- ### Research Paper  -->
 
 ###  About Me
