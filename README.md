@@ -1,67 +1,22 @@
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=github-compact)](https://github.com/kunalbandale/github-readme-activity-graph)
 
-[![Kunal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=github-compact	)](https://github.com/kunalbandale/github-readme-activity-graph)
+## 👋 Hello World!
 
----
+I'm kunal bandale, diligent computer engineering student, currently in my final year of B.Tech in Information Technology. I bring a strong foundation in coding and a commitment to continuous learning.
 
-### Projects
-| Project Name | Link | Description |
-|--------------|------|-------------|
-| Project 1    | [Project 1 Link]() | Description of project 1. |
-| Project 2    | [Project 2 Link]() | Description of project 2. |
-| Project 3    | [Project 3 Link]() | Description of project 3. |
+### 🎓 Education
 
----
-
-### Research Papers
-| Paper Title | Link | Description |
-|-------------|------|-------------|
-| Paper 1     | [Paper 1 Link]() | Description of paper 1. |
-| Paper 2     | [Paper 2 Link]() | Description of paper 2. |
-| Paper 3     | [Paper 3 Link]() | Description of paper 3. |
+- **B.Tech in Information Technology**
+  Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET) | 2022 - Present
+- **Diploma in Computer Engineering**
+  Gramin Technical and Management Campus | 2019 - 2022
 
 ---
 
-### Latest Blog Posts
- - [Learn CSS - I](https://kunalbandale.in/learn-css-i)
- - [Python Basics](https://kunalbandale.in/python-basics-from-variables-to-conditional-statements)
- - [Introduction to APIs](https://kunalbandale.in/understanding-apis-simplified)
- - [Introduction to Cryptocurrency](https://kunalbandale.in/introduction-to-cryptocurrency)
- - [Beginner's Guide for Book Exploration](https://kunalbandale.in/beginners-guide-to-book-exploration)
----
+<div align="center">
 
-###  My Notes 
-| Topic  |   Links |
-|-----------|-------------|
-|📚 Python OOP   |https://github.com/kunalbandale/my-notes/blob/main/Python%20OOPs%20Concept.pdf |
-|📝 SQL   | https://github.com/kunalbandale/my-notes/blob/main/SQL%20notes.pdf |  
-|💻 HTML      | https://github.com/kunalbandale/my-notes/blob/main/HTML%20-%20NOTES.pdf |  
-|💡 Agile | https://github.com/kunalbandale/my-notes/blob/main/Agile.pdf | 
-|💡Blockchain - I      | https://github.com/kunalbandale/my-notes/blob/main/Blockchain%20-%20I.pdf | 
-|📚 Get all notes here|https://github.com/kunalbandale/my-notes|
+## 💻 Tech Stack
 
----
-### Repo for beginners
-| repo name | link | description |
-|-----------|------------|---------|
-|GitGithub-and-DSA-Playground|https://github.com/kunalbandale/GitGithub-and-DSA-Playground| A collaborative space for Git and Data Structures & Algorithms enthusiasts to practice coding, learn version control with Git, and contribute their DSA implementations. Let's code and learn together!|
-
----
-
-### Cheatsheet
-| Topic  |   Links |
-|-----------|-------------|
-|💡 C++ | [C++ Cheatsheet]() |
-|📝 Python | [Python Cheatsheet](https://github.com/kunalbandale/python-cheat-sheet/blob/main/README.md) |  
-|💻 Java | [Java Cheatsheet]() |  
-
-
-###  About Me
-- 👋 Hello World! <b>I am Kunal Bandale </b>, a diligent computer engineering. Currently in the third year of my B.Tech program in Information Technology, I bring a strong foundation in coding and a commitment to continuous learning.
-- #### Education
-  - <b>B.tech in Information Technology</b> , Shri Guru Gobind Singhji Institute of Engineering and Technology (SGGSIET)   2022 - Present     
-  - <b>Diploma in Computer Engineering </b> , Gramin Technical and Management Campus - 2019 - 2022
-
-- #### Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -79,14 +34,63 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🌐 Socials:
+---
+
+</div>
+
+## 📚 Latest Blog Posts
+
+- [Learn CSS - I](https://kunalbandale.in/learn-css-i)
+- [Python Basics](https://kunalbandale.in/python-basics-from-variables-to-conditional-statements)
+- [Introduction to APIs](https://kunalbandale.in/understanding-apis-simplified)
+- [Introduction to Cryptocurrency](https://kunalbandale.in/introduction-to-cryptocurrency)
+- [Beginner's Guide for Book Exploration](https://kunalbandale.in/beginners-guide-to-book-exploration)
+
+---
+
+## 🚀 Repo for Beginners
+
+[GitGithub-and-DSA-Playground](https://github.com/kunalbandale/GitGithub-and-DSA-Playground)
+
+A collaborative space for Git and Data Structures & Algorithms enthusiasts to practice coding, learn version control with Git, and contribute their DSA implementations. Let's code and learn together!
+
+---
+
+
+## 📝 My Notes and Cheatsheets
+
+| Topic | Notes | Cheatsheet |
+|-------|-------|------------|
+| Python | [📚 Python OOP](https://github.com/kunalbandale/my-notes/blob/main/Python%20OOPs%20Concept.pdf) | [📝 Python Cheatsheet](https://github.com/kunalbandale/python-cheat-sheet/blob/main/README.md) |
+| SQL | [📝](https://github.com/kunalbandale/my-notes/blob/main/SQL%20notes.pdf) | - |
+| HTML | [💻](https://github.com/kunalbandale/my-notes/blob/main/HTML%20-%20NOTES.pdf) | - |
+| Agile | [💡](https://github.com/kunalbandale/my-notes/blob/main/Agile.pdf) | - |
+| Blockchain | [💡 Blockchain - I](https://github.com/kunalbandale/my-notes/blob/main/Blockchain%20-%20I.pdf) | - |
+| C++ | - | [💡 C++ Cheatsheet]() |
+| Java | - | [💻 Java Cheatsheet]() |
+
+[📚 Get all notes here](https://github.com/kunalbandale/my-notes)
+
+---
+
+
+
+<div align="center">
+
+## 🌐 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kunalbandale) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bandalekunal) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13920659) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kunalbandale)
 
-### 📈 Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbandale&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalbandale&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalbandale&theme=github)
+---
 
+## 📊 GitHub Stats
+
+![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kunalbandale&theme=github)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kunalbandale&theme=github)
+![Most Used Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kunalbandale&theme=github)
+
+
+</div>
