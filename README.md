@@ -1,8 +1,7 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=react-dark)](https://github.com/kunalbandale/github-readme-activity-graph)
 
-## 👋 Hello World!
-
-I'm kunal bandale, diligent computer engineering student, currently in my final year of B.Tech in Information Technology. I bring a strong foundation in coding and a commitment to continuous learning.
+## 👋
+- Hello Everyone 
 
 ### 🎓 Education
 
