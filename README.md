@@ -1,7 +1,6 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kunalbandale&theme=react-dark)](https://github.com/kunalbandale/github-readme-activity-graph)
 
-## 👋
-- Hello Everyone 
+# 👋
 
 ### 🎓 Education
 
