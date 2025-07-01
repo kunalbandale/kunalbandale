@@ -1,7 +1,3 @@
-# <img src="https://github.com/kunalbandale.png" width="40" style="border-radius:50%"/> Kunal Bandale
-
----
-
 <p align="center">
   <b>📧 <a href="mailto:bandalekunal@gmail.com">bandalekunal@gmail.com</a> &nbsp;|&nbsp; <a href="https://github.com/kunalbandale">🐙 GitHub</a> &nbsp;|&nbsp; <a href="https://linkedin.com/in/kunalbandale">💼 LinkedIn</a></b>
 </p>
