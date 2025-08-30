@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<article class="post">
+    <div class="container">
+        <header class="post-header">
+            <div class="post-meta">
+                <time datetime="{{ page.date | date_to_xmlschema }}" class="post-date">
+                    {{ page.date | date: "%B %d, %Y" }}
+                </time>
+                {% if page.author %}
+                <span class="post-author">by {{ page.author }}</span>
+                {% endif %}
+                {% if page.read_time %}
+                <span class="post-read-time">
+                    <i class="fas fa-clock"></i>
+                    {% assign words = content | number_of_words %}
+                    {% if words < 360 %}
+                        1 min read
+                    {% else %}
+                        {{ words | divided_by:180 }} min read
+                    {% endif %}
+                </span>
+                {% endif %}
+            </div>
+            
+            <h1 class="post-title">{{ page.title }}</h1>
+            
+            {% if page.description %}
+            <p class="post-description">{{ page.description }}</p>
+            {% endif %}
+            
+            {% if page.tags %}
+            <div class="post-tags">
+                {% for tag in page.tags %}
+                <span class="tag">{{ tag }}</span>
+                {% endfor %}
+            </div>
+            {% endif %}
+        </header>
+
+        <div class="post-content">
+            {{ content }}
+        </div>
+
+        <footer class="post-footer">
+            {% if page.share %}
+            <div class="share-buttons">
+                <h4>Share this post:</h4>
+                <a href="https://twitter.com/intent/tweet?text={{ page.title | url_encode }}&url={{ page.url | absolute_url }}" target="_blank" rel="noopener" class="share-btn twitter">
+                    <i class="fab fa-twitter"></i> Twitter
+                </a>
+                <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank" rel="noopener" class="share-btn facebook">
+                    <i class="fab fa-facebook"></i> Facebook
+                </a>
+                <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ page.url | absolute_url }}" target="_blank" rel="noopener" class="share-btn linkedin">
+                    <i class="fab fa-linkedin"></i> LinkedIn
+                </a>
+            </div>
+            {% endif %}
+
+            <div class="post-navigation">
+                {% if page.previous.url %}
+                <a href="{{ page.previous.url | relative_url }}" class="prev-post">
+                    <i class="fas fa-arrow-left"></i>
+                    <span>{{ page.previous.title }}</span>
+                </a>
+                {% endif %}
+                
+                {% if page.next.url %}
+                <a href="{{ page.next.url | relative_url }}" class="next-post">
+                    <span>{{ page.next.title }}</span>
+                    <i class="fas fa-arrow-right"></i>
+                </a>
+                {% endif %}
+            </div>
+        </footer>
+    </div>
+</article>

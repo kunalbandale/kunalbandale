@@ -1,0 +1,84 @@
+# Site settings
+title: "Your Awesome Website"
+description: "A modern Jekyll website built for GitHub Pages"
+author: "Your Name"
+email: "your-email@example.com"
+url: "https://yourusername.github.io" # Change this to your GitHub Pages URL
+baseurl: "" # Change this if your site is in a subdirectory
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Your Name"
+      comments: false
+      share: true
+      read_time: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
+  - README.md
+
+# Social media
+social:
+  github: yourusername
+  twitter: yourusername
+  linkedin: yourusername
+  email: your-email@example.com
+
+# Analytics (uncomment and add your tracking ID)
+# google_analytics: UA-XXXXXXXXX-X
+
+# Comments (uncomment and add your Disqus shortname)
+# disqus_shortname: yourshortname
+
+# Timezone
+timezone: UTC
+
+# Encoding
+encoding: utf-8
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
